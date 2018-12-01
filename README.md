@@ -1,2 +1,2 @@
 # c_collection
-A simple Login Form - NOt YET COMPLETED.
+A simple Login Form using Codeigniter Framework - NOt YET COMPLETED.
